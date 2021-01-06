@@ -29,3 +29,5 @@
  'bagging_fraction': 0.8659614027413121,
  'bagging_freq': 2,
  'min_child_samples': 100}
+
+parameters2 gives RMSE of 0.70106
